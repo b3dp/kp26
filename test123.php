@@ -1,2 +1,1 @@
-fdshb jksdfs
-fdatasync
+selamlar

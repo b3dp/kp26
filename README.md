@@ -7,10 +7,10 @@ Bu proje aşağıdaki dosyaları içerir:
 
 ### PHP Dosyaları
 - **phpinfo.php**: PHP yapılandırma bilgilerini görüntüleyen sayfa
-- **test123.php**: Geçici test dosyası (placeholder içerik)
+- **test123.php**: Test dosyası (örnek içerik ile)
 
 ### Diğer Dosyalar
-- **test**: Geçici test dosyası (placeholder içerik)
+- **test**: Test dosyası (örnek içerik ile)
 
 ## Kullanım
 
